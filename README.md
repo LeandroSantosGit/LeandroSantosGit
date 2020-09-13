@@ -17,10 +17,10 @@
 
 ### GitHub Stats and languages 💻
 <p align="center">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=leandrosantosgit&show_icons=true&theme=dark" alt="Leandro Santos"/> 
+    <img width="65%" src="https://github-readme-stats.vercel.app/api?username=leandrosantosgit&show_icons=true&theme=dark" alt="Leandro Santos"/> 
     </p>
     <p align="center">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSantosGit&theme=dark&langs_count=10&layout=compact"/> 
+    <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSantosGit&theme=dark&langs_count=10&layout=compact"/> 
 </p>
 
 ### Languages, Frameworks, Libraries and Tools 🚀
