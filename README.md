@@ -1,4 +1,4 @@
-### Hey, I'm Leandro Santos! 👋
+### Hey, I'm Leandro Santos! 👋🏾
 
 - 🔭 I'm currently looking for work as Software Developer
 - 🔧 I am always looking to learn new technologies;
